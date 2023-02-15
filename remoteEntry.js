@@ -9839,7 +9839,7 @@ if (true) {
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "http://localhost:3001/";
+/******/ 		__webpack_require__.p = "https://okandeldev.github.io/diagnostics_widgets/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/react refresh */
